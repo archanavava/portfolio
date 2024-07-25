@@ -1,0 +1,29 @@
+ body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(240, 197, 240);
+}
+
+.navbar-brand {
+    font-weight: bold;
+
+   
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+#about img {
+    border-radius: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+#skills .col-md-4 {
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: #afcedf;
+    margin-top: 40px;
+}
